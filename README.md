@@ -12,9 +12,12 @@ Time spent: 3 hours spent in total
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the program:
 
-<img src='hhttps://media.giphy.com/media/6VVnYgtdrfNF3X6w6u/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/OB9CQLb.gif)
+
+
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
